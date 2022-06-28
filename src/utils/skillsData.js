@@ -1,0 +1,20 @@
+export const skillsData = [
+    'arduino',
+    'css',
+    'firebase',
+    'ganache',
+    'git',
+    'html',
+    'java',
+    'js',
+    'linux',
+    'mysql',
+    'nodejs',
+    'npm',
+    'php',
+    'python',
+    'react',
+    'rust',
+    'solidity',
+    'truffle'
+]

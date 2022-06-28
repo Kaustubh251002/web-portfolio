@@ -1,0 +1,31 @@
+.skills__boxes{
+    display: grid;
+    gap: 1rem;
+}
+.skills__box {
+    grid-row: 1;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.12);
+    background: var(--color-bg);
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: var(--color-primary);
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+    transition: var(--transition);
+}
+
+.skills__box:hover {
+    transform: scale(1.15);
+    background: var(--color-bg-variant);
+    border: 3px solid;
+    border-color: var(--color-primary);
+}
+
+section{
+    margin-top: 5rem;
+}

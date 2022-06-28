@@ -3,8 +3,13 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
+    margin-bottom: 5rem;
+}
+
+.contact__container{
     margin-bottom: 10rem;
 }
+
 .contact__options{
     display: grid;
     gap: 5rem;

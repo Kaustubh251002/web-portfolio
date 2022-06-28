@@ -7,8 +7,8 @@ import {BsInstagram} from 'react-icons/bs'
 const Contact = () => {
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <h4>Get In Touch</h4>
+      <h1>Contact Me</h1>
 
       <div className="container contact__container">
         <div className="contact__options">

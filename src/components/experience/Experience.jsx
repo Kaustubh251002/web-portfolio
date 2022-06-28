@@ -7,8 +7,8 @@ import {skillsImage} from '../../utils/skillsImage';
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>The Tools and Technologies I Use</h5>
-      <h2>Skills</h2>
+      <h4>The Tools and Technologies I Use</h4>
+      <h1>Skills</h1>
       <div className="skills__scroll">
         <Marquee gradient={false} speed={80} pauseOnHover={true} pauseOnClick={true} delay={0} play={true} direction="right">
           <div className="skills__boxes">

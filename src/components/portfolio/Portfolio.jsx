@@ -7,8 +7,8 @@ import leetcode from '../../assets/leetcode.png'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Works</h5>
-      <h2>Projects</h2>
+      <h4>My Works</h4>
+      <h1>Projects</h1>
 
       <div className="container portfolio__container">
         <article className='portfolio__item'>
